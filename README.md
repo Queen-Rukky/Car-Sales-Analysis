@@ -1,5 +1,15 @@
 # 🚗 Car Sales Analysis Power BI Dashboard
 
+## Table Of Content
+[Overview](https://github.com/Queen-Rukky/Car-Sales-Analysis#overview)
+[Dashboard highlights](https://github.com/Queen-Rukky/Car-Sales-Analysis#-dashboard-highlights)
+[Features And Tools](https://github.com/Queen-Rukky/Car-Sales-Analysis#-features-and-tools)
+[Project Files](https://github.com/Queen-Rukky/Car-Sales-Analysis#-project-files)
+[Skills And Tools Used](https://github.com/Queen-Rukky/Car-Sales-Analysis#-skills-and-tools-used)
+[Business Impact](https://github.com/Queen-Rukky/Car-Sales-Analysis#-business-impact)
+[Key Learning ](https://github.com/Queen-Rukky/Car-Sales-Analysis#-key-learnings)
+[Contributions](https://github.com/Queen-Rukky/Car-Sales-Analysis#-contributions)
+
 ## Overview
 The Car Sales Analysis Dashboard is an interactive and dynamic business intelligence tool developed using Power BI. It provides a full overview of car sales data, helping businesses, dealerships, and analysts gain actionable insights into key sales trends and performance metrics. The dashboard is designed to empower users to filter, slice, and explore data with ease, making it ideal for monitoring the overall sales health and optimizing strategic business decisions.
 
